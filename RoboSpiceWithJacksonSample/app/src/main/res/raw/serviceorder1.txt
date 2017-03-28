@@ -1,0 +1,14 @@
+{ 
+ "qualifiedCarriers" : [
+       "ATT",
+       "TMO",
+       "VZW",
+       "SPT"
+   ],
+  "qualificationResult": "qualified",
+  "location" : {
+    "postalAddress" : {
+      "zipcode" : "98406"
+    }
+    }
+}
